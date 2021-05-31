@@ -1,2 +1,2 @@
 # Universidad
-Recopilación de los distintos proyectos realizados durante la uni
+Recopilación algunos proyectos realizados durante la uni.Subiendo cuando encuentro
